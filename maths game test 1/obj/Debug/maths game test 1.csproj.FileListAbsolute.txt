@@ -1,0 +1,50 @@
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\bin\Debug\maths game test 1.exe.config
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\bin\Debug\maths game test 1.exe
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\bin\Debug\maths game test 1.pdb
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths game test 1.csprojAssemblyReference.cache
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths_game_test_1.Form1.resources
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths_game_test_1.Properties.Resources.resources
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths game test 1.csproj.GenerateResource.cache
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths game test 1.csproj.CoreCompileInputs.cache
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths game test 1.exe
+C:\Users\5198823\source\repos\maths game test 1\maths game test 1\obj\Debug\maths game test 1.pdb
+E:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.exe.config
+E:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.exe
+E:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.pdb
+E:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csprojAssemblyReference.cache
+E:\maths game test 2\maths game test 1\obj\Debug\maths_game_test_1.Form1.resources
+E:\maths game test 2\maths game test 1\obj\Debug\maths_game_test_1.Properties.Resources.resources
+E:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csproj.GenerateResource.cache
+E:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csproj.CoreCompileInputs.cache
+E:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.exe
+E:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.pdb
+F:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csprojAssemblyReference.cache
+F:\maths game test 2\maths game test 1\obj\Debug\maths_game_test_1.Form1.resources
+F:\maths game test 2\maths game test 1\obj\Debug\maths_game_test_1.Properties.Resources.resources
+F:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csproj.GenerateResource.cache
+F:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.csproj.CoreCompileInputs.cache
+F:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.exe
+F:\maths game test 2\maths game test 1\obj\Debug\maths game test 1.pdb
+F:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.exe.config
+F:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.exe
+F:\maths game test 2\maths game test 1\bin\Debug\maths game test 1.pdb
+E:\maths game\maths game test 1\bin\Debug\maths game test 1.exe.config
+E:\maths game\maths game test 1\bin\Debug\maths game test 1.exe
+E:\maths game\maths game test 1\bin\Debug\maths game test 1.pdb
+E:\maths game\maths game test 1\obj\Debug\maths game test 1.csprojAssemblyReference.cache
+E:\maths game\maths game test 1\obj\Debug\maths_game_test_1.Properties.Resources.resources
+E:\maths game\maths game test 1\obj\Debug\maths game test 1.csproj.GenerateResource.cache
+E:\maths game\maths game test 1\obj\Debug\maths game test 1.csproj.CoreCompileInputs.cache
+E:\maths game\maths game test 1\obj\Debug\maths game test 1.exe
+E:\maths game\maths game test 1\obj\Debug\maths game test 1.pdb
+E:\maths game\maths game test 1\obj\Debug\maths_game_test_1.MonkeyMaths.resources
+F:\maths game\maths game test 1\bin\Debug\maths game test 1.exe.config
+F:\maths game\maths game test 1\bin\Debug\maths game test 1.exe
+F:\maths game\maths game test 1\bin\Debug\maths game test 1.pdb
+F:\maths game\maths game test 1\obj\Debug\maths game test 1.csprojAssemblyReference.cache
+F:\maths game\maths game test 1\obj\Debug\maths_game_test_1.MonkeyMaths.resources
+F:\maths game\maths game test 1\obj\Debug\maths_game_test_1.Properties.Resources.resources
+F:\maths game\maths game test 1\obj\Debug\maths game test 1.csproj.GenerateResource.cache
+F:\maths game\maths game test 1\obj\Debug\maths game test 1.csproj.CoreCompileInputs.cache
+F:\maths game\maths game test 1\obj\Debug\maths game test 1.exe
+F:\maths game\maths game test 1\obj\Debug\maths game test 1.pdb
